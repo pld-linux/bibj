@@ -3,8 +3,8 @@ Summary:	Extracts journals names
 Summary(pl):	Wyciaganie nazw czasopism
 Name:		bibj
 Version:	1.1
-Release:	0.9
-License:	???
+Release:	1
+License:	unknown
 Group:		Applications
 Source0:	http://www.ecst.csuchico.edu/~jacobsd/bib/archives/%{name}
 # Source0-md5:	711d05f757f91023e3822d73ff05e414
