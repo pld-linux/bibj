@@ -1,7 +1,7 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Extracts journals names
 Name:		bibj
-Version:	0.1
+Version:	1.1
 Release:	0.9
 License:	???
 Group:		Applications
