@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Extracts journals names
-Summary(pl):	Wyciaganie nazw czasopism
+Summary(pl):	Wyci±ganie nazw czasopism
 Name:		bibj
 Version:	1.1
 Release:	1
