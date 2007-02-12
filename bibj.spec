@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Extracts journals names
-Summary(pl):	Wyci±ganie nazw czasopism
+Summary(pl.UTF-8):   WyciÄ…ganie nazw czasopism
 Name:		bibj
 Version:	1.1
 Release:	1
@@ -18,9 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Extracts journals names, which can be used to check for misspellings
 and duplicates.
 
-%description -l pl
-bibj wyci±ga nazwy czasopism, co mo¿na wykorzystaæ do sprawdzania
-pisowni i wyszukiwania duplikatów.
+%description -l pl.UTF-8
+bibj wyciÄ…ga nazwy czasopism, co moÅ¼na wykorzystaÄ‡ do sprawdzania
+pisowni i wyszukiwania duplikatÃ³w.
 
 %prep
 
